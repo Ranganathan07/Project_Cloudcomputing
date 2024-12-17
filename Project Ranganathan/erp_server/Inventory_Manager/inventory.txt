@@ -1,6 +1,0 @@
-Product Name                         Code                                   Price
-PRODUCT_01                        RAKS0723CC                                1,050
-PRODUCT_02                        RAKS0724DD                                  950
-PRODUCT_03                        RPAKG045FN                                1,100
-PRODUCT_04                        RORHC739FT                                  777
-
