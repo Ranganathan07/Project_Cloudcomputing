@@ -1,0 +1,8 @@
+roduct Name                         Code                                   Price
+PRODUCT_01                        RAKS0723CC                                1,050 
+PRODUCT_02                        RAKS0724DD                                  950
+PRODUCT_03                        RPAKG045FN                                1,900
+PRODUCT_04                        RAKS0724DD                                  950
+PRODUCT_05                        RPAKG045FN                                2,000
+PRODUCT_06                        RAKS0724DD                                  950
+PRODUCT_07                        RPAKG045FN                                  390
